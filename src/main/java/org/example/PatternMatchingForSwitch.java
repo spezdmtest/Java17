@@ -34,7 +34,7 @@ public class PatternMatchingForSwitch {
     static void doDemoFour() {
         Object o = "Str";
 
-        switch(o) {
+        switch (o) {
             case String s -> System.out.println("String: " + s);
             case CharSequence cs -> System.out.println("String: " + cs);
             default -> System.out.println("Default: " + o);

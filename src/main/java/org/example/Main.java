@@ -11,7 +11,7 @@ public class Main {
         PatternMatchingForSwitch.doDemoOne("Hello, World!");
         PatternMatchingForSwitch.doDemoOne(new Object());
         PatternMatchingForSwitch.doDemoTwo(new Scanner(System.in));
-          PatternMatchingForSwitch.doDemoThree();
-          PatternMatchingForSwitch.doDemoFour();
+        PatternMatchingForSwitch.doDemoThree();
+        PatternMatchingForSwitch.doDemoFour();
     }
 }
