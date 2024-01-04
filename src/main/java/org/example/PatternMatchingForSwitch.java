@@ -39,6 +39,4 @@ public class PatternMatchingForSwitch {
             default -> System.out.println("Default: " + o);
         }
     }
-
-
 }
